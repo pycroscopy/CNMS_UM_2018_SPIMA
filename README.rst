@@ -17,7 +17,7 @@ Prerequisites
   
 * An environment to run the jupyter notebooks:
 
-  #. (Recommended) - `Azure notebooks <https://notebooks.azure.com>`_
+  #. **(Recommended)** - `Azure notebooks <https://notebooks.azure.com>`_
   
      #. Logging into Azure Notebooks:
      
