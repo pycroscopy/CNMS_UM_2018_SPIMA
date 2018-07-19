@@ -1,0 +1,12 @@
+numpy
+matplotlib
+h5py
+psutil
+six
+joblib
+ipywidgets
+ipython
+pyqt5
+pyqtgraph
+scikit-image
+pyUSID
