@@ -29,7 +29,7 @@ Prerequisites
         #. Click on ``Libraries``
         #. Click on ``+ New Library``
         #. Select the ``From GitHub`` tab
-        #. Paste ``https://github.com/pycroscopy/pyUSID_CNMS_UM_2018`` into the field named ``GitHub repository``
+        #. Paste ``https://github.com/pycroscopy/pyUSID_Tutorial`` into the field named ``GitHub repository``
         #. Name your library however your want for the ``Library Name``
         #. Use an alpha-numeric name for the ``Library ID``
         #. Click on the ``Import`` button on the bottom right
