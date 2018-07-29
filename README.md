@@ -29,3 +29,8 @@ basics of:
         -   Follow these instructions to install
             [Anaconda](https://www.anaconda.com/download/) and
             [pyUSID](https://pycroscopy.github.io/pyUSID/install.html) on your own laptop
+
+## Getting help
+
+- **LIVE workshop attendees:** Please request assistance from one of the helpers or the instructor
+- **Self-paced learners:** Please get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pyusid)
