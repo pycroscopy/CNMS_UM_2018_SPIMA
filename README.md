@@ -1,5 +1,4 @@
-pyUSID Tutorial
-===============
+# pyUSID Tutorial
 
 We present a set of jupyter notebooks and presentations that go over the
 basics of:
@@ -11,47 +10,22 @@ basics of:
     python interface to storing, interacting with, and visualizing USID
     files
 
-Prerequisites
--------------
+## Prerequisites
 
 -   Knowledge of and familiarity with the basics. See our [list of
     tutorials](https://pycroscopy.github.io/pyUSID/external_guides.html):
     -   basic programming
     -   python
-    -   basic scientific and numeric packages such as numpy, scipy, etc.
+    -   numerical analysis using [numpy](https://github.com/stefanv/imagexd_scientific_python)
     -   Jupyter notebooks
 -   An environment to run the jupyter notebooks:
     1.  **(Recommended)** - [Azure
-        notebooks](https://notebooks.azure.com)
-        1.  Logging into Azure Notebooks:
-
-            1.  You will need a free microsoft account (hotmail, etc.)
-                for this
-            2.  Click on **sign in** at the top in [this
-                page](https://notebooks.azure.com)
-            3. Log in with your microsoft credentials
-        2.  Adding the tutorial library:
-
-            1.  Click on `Libraries`
-            2.  Click on `+ New Library`
-            3.  Select the `From GitHub` tab
-            4.  Paste `https://github.com/pycroscopy/pyUSID_Tutorial`
-                into the field named `GitHub repository`
-            5.  Name your library however your want for the
-                `Library Name`
-            6.  Use an alpha-numeric name for the `Library ID`
-            7. Click on the `Import` button on the bottom right
-            
-        3.  Starting the notebook server
+        notebooks](./azure_notebooks_setup.md)
         
-            1.  You should be presented with a page listing the files
-                within the repository
-            2.  Click on the `Run` button
+    2.  [Binder](https://mybinder.org/v2/gh/pycroscopy/pyUSID_Tutorial/master)
+        - The link above should launch a container via binder. Please be patient
 
-    2.  Your own computer
+    3.  Local installation of python
         -   Follow these instructions to install
             [Anaconda](https://www.anaconda.com/download/) and
-            [pyUSID](https://pycroscopy.github.io/pyUSID/install.html)
-
-    3.  Binder
-
+            [pyUSID](https://pycroscopy.github.io/pyUSID/install.html) on your own laptop
