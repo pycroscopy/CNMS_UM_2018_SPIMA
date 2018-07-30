@@ -1,4 +1,10 @@
-# Tentative Schedule 
+# 2018 CNMS User Meeting Workshop
+
+[Abstract](https://cnmsusermeeting.ornl.gov/files/2018/03/Pycroscopy_WT_081318.pdf) of the workshop
+
+## Tentative Schedule 
+
+**August 13 2018**
 
 | Time             | Mode     | Topic                                                                            |
 |------------------|----------|----------------------------------------------------------------------------------|
@@ -19,4 +25,41 @@
 | 4:15 - 4:30 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
 | 4:30 - 4:45 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inferrence    |
 | 4:45 - 5:00 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
-                                                                            |
+
+## Getting to the workshop
+
+### On-site participants
+The workshop will be held at Oak Ridge National Laboratory. Visistors may find these [maps and directions](https://www.ornl.gov/content/maps-and-directions) helpful to get to ORNL.
+
+Once inside ORNL, please drive to the [Spllation Neutron Source (SNS)](https://neutrons.ornl.gov/sns) - building 8600, which is located in the top right 
+of [this map](https://www.ornl.gov/sites/default/files/05-01786-outsideMC-.pdf). Please also refer to this slightly 
+[more detailed map](https://www.ornl.gov/sites/default/files/sns_hfir_visitor_map.pdf) of the SNS complex.
+
+The workshop will be held in conference rooms C-156 and C-152 of the SNS. 
+
+### Remote participants
+We plan on using BlueJeans for broadcasting the entire event to those who cannot physically make it to the event. 
+Those who are within and in the vicinity of Oak Ridge National Laboratory are encouraged to attend in person to make the most of this workshop.
+
+Please visit [this link](https://bluejeans.com/782808739) to join the event. You may need to install BlueJeans plugins.
+
+## Getting help
+
+### On-site participants
+Please request assistance from one of the helpers or the instructor
+
+### Remote participants
+![Typical BlueJeans window](https://support.bluejeans.com/sites/default/files/support/u111/Attendee%20View%20-%20six%20bullets%20-%209-25-17.png)
+One of the workshop organizers will be monitoring the BlueJeans chat panel for questions. Please feel free to ask questions there.
+
+## Event organizers
+- Suhas Somnath
+- Rama K. Vasudevan
+- Chris R. Smith
+- Stephen Jesse
+- Liam Collins
+- Ondrej Dyck
+- Sabine M. Neumayer
+- Wan-Yu Tsai
+- Artem A. Trofimov
+- Nikolay Borodinov
