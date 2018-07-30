@@ -9,15 +9,17 @@ basics of:
 -   [pyUSID](https://pycroscopy.github.io/pyUSID/about.html) - the
     python interface to storing, interacting with, and visualizing USID
     files
+    
+This material was developed as part of the [2018 CNMS User Meeting workshop](./CNMS_UM_Workshop_schedule.md)
 
 ## Prerequisites
 
--   Knowledge of and familiarity with the basics. See our [list of
+-   Familiarity with the basics. See our [list of
     tutorials](https://pycroscopy.github.io/pyUSID/external_guides.html):
     -   basic programming
-    -   python
+    -   basic concepts of python
     -   numerical analysis using [numpy](https://github.com/stefanv/imagexd_scientific_python)
-    -   Jupyter notebooks
+    -   starting and operating Jupyter notebooks
 -   An environment to run the jupyter notebooks:
     1.  **(Recommended)** - [Azure
         notebooks](./azure_notebooks_setup.md)
@@ -31,6 +33,4 @@ basics of:
             [pyUSID](https://pycroscopy.github.io/pyUSID/install.html) on your own laptop
 
 ## Getting help
-
-- **LIVE workshop attendees:** Please request assistance from one of the helpers or the instructor
-- **Self-paced learners:** Please get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pyusid)
+Please get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pyusid)
