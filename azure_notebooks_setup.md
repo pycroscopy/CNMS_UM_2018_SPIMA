@@ -32,5 +32,5 @@ Instructions for setting up an Azure Notebooks project from scratch below.
     1.  You should be presented with a page listing the files
         within the repository
         ![Library added](./azure_screenshots/5.png)
-    2.  Click on the `Run` button
+    2.  Click on the `Run` button and you should be directed to a running jupyter notebook server
         ![Run library](./azure_screenshots/6.png)
