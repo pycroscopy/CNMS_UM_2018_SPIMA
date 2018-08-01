@@ -16,10 +16,14 @@ This material was developed as part of the [2018 CNMS User Meeting workshop](./C
 
 -   Familiarity with the basics. See our [list of
     tutorials](https://pycroscopy.github.io/pyUSID/external_guides.html):
-    -   basic programming
+    -   starting and operating [Jupyter notebooks](./00_a_jupyter_notebooks.ipynb)
     -   basic concepts of python
-    -   numerical analysis using [numpy](https://github.com/stefanv/imagexd_scientific_python)
-    -   starting and operating Jupyter notebooks
+        - variables
+        - lists and dictionaries
+        - if else statements
+        - for loops
+        - creating and using functions
+    -   numerical analysis using [numpy](./00_c_numpy.ipynb)
 -   An environment to run the jupyter notebooks:
     1.  **(Recommended)** - [Azure
         notebooks](./azure_notebooks_setup.md)
