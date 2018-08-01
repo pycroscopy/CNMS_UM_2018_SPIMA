@@ -6,6 +6,8 @@
 
 **August 13 2018**
 
+**All times are US Eastern daylight time**
+
 | Time             | Mode     | Topic                                                                            |
 |------------------|----------|----------------------------------------------------------------------------------|
 | 9:00 - 9:40 AM   | Talk     | Universal Spectroscopy and Imaging Data (USID)                                   |
@@ -23,8 +25,12 @@
 | 3:05 - 4:00 PM   | Hands on | Writing a Process class                                                          |
 | 4:00 - 4:15 PM   | Talk     | Application: Denoising images and finding atoms                                  |
 | 4:15 - 4:30 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
-| 4:30 - 4:45 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inferrence    |
+| 4:30 - 4:45 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
 | 4:45 - 5:00 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
+
+## Before the workshop
+1. Please familiarize yourself with the [basics](./README.md#prerequisites)
+2. Please fill out this quick [survey](https://docs.google.com/forms/d/e/1FAIpQLSeR5aB-iMxeCUyjk4t2hNhFKYy8ikBIqVPOZyzVeAbWXHvZ-w/viewform?usp=sf_link) about your comfort levels
 
 ## Getting to the workshop
 
