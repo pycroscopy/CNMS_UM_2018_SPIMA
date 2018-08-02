@@ -23,10 +23,11 @@
 | 2:30 - 2:50 PM   | Hands on | Processing data quickly                                                          |
 | 2:50 - 3:05 PM   |          | Coffee break                                                                     |
 | 3:05 - 4:00 PM   | Hands on | Writing a Process class                                                          |
-| 4:00 - 4:15 PM   | Talk     | Application: Denoising images and finding atoms                                  |
-| 4:15 - 4:30 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
-| 4:30 - 4:45 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
-| 4:45 - 5:00 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
+| 4:00 - 4:20 PM   | Talk     | Application: Denoising images and finding atoms                                  |
+| 4:20 - 4:30 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
+| 4:30 - 4:45 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
+| 4:45 - 5:00 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
+
 
 ## Before the workshop
 1. Please familiarize yourself with the [basics](./README.md#prerequisites)
@@ -56,13 +57,15 @@ Please request assistance from one of the helpers or the instructor
 
 ### Remote participants
 ![Typical BlueJeans window](https://support.bluejeans.com/sites/default/files/support/u111/Attendee%20View%20-%20six%20bullets%20-%209-25-17.png)
-One of the workshop organizers will be monitoring the BlueJeans chat panel for questions. Please feel free to ask questions there.
+One (or more) of the workshop organizers will be monitoring the BlueJeans chat panel for questions. Please feel free to ask questions there.
 
-## Event organizers
+## Hosts
+### Organizers
 - Suhas Somnath
 - Rama K. Vasudevan
 - Chris R. Smith
 - Stephen Jesse
+### Helpers
 - Liam Collins
 - Ondrej Dyck
 - Sabine M. Neumayer
