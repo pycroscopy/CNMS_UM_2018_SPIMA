@@ -10,19 +10,20 @@
 
 | Time             | Mode     | Topic                                                                            |
 |------------------|----------|----------------------------------------------------------------------------------|
-| 9:00 - 9:40 AM   | Talk     | Universal Spectroscopy and Imaging Data (USID)                                   |
-| 9:40 - 9:55 AM   | Talk     | Software overview - pyUSID                                                       |
-| 9:55 - 10:15 AM  | Hands on | Software setup - Azure or Binder                                                 |
+| 9:00 - 9:35 AM   | Talk     | [Universal Spectroscopy and Imaging Data (USID)](./USID_pyUSID_pycroscopy.pdf)   |
+| 9:35 - 9:45 AM   | Talk     | [Software overview - pyUSID and pycroscopy](./USID_pyUSID_pycroscopy.pdf)        |
+| 9:45 - 10:00 AM  | Hands on | [Software setup - Azure](./README.md#environment)                                |
+| 10:00 - 10:15 AM | Hands on | [Basics of Python, Jupyter Notebooks, and Numpy](./index.ipynb)                  |
 | 10:15 - 10:30 AM |          | Coffee break                                                                     |
-| 10:30 - 11:00 AM | Hands on | Basics of HDF5, h5py and numpy                                                   |
-| 11:00 - 11:30 AM | Hands on | Interacting with USIDatasets                                                     |
-| 11:30 - 12:00 PM | Hands On | Reading h5USID datasets                                                          |
+| 10:30 - 11:00 AM | Hands on | [Basics of HDF5, h5py](./01_h5py.ipynb)                                          |
+| 11:00 - 11:30 AM | Hands on | [Interacting with USIDatasets](./02_USIDatasets.ipynb)                           |
+| 11:30 - 12:00 PM | Hands On | [Reading h5USID datasets](./03_hdf_utils_read.ipynb)                             |
 | 12:00 - 1:00 PM  |          | Lunch (on your own)                                                              |
-| 1:00 - 1:45 PM   | Hands on | Translating proprietary data formats to h5USID                                   |
-| 1:45 - 2:30 PM   | Hands on | Writing h5USID datasets                                                          |
-| 2:30 - 2:50 PM   | Hands on | Processing data quickly                                                          |
+| 1:00 - 1:45 PM   | Hands on | [Translating proprietary data formats to h5USID](./04_translation.ipynb)         |
+| 1:45 - 2:30 PM   | Hands on | [Writing datasets to h5USID files](./05_hdf_utils_write.ipynb)                   |
+| 2:30 - 2:50 PM   | Hands on | [Processing data quickly](./06_parallel_compute.ipynb)                           |
 | 2:50 - 3:05 PM   |          | Coffee break                                                                     |
-| 3:05 - 4:00 PM   | Hands on | Writing a Process class                                                          |
+| 3:05 - 4:00 PM   | Hands on | [Formalizing data processing](./07_process.ipynb)                                |
 | 4:00 - 4:20 PM   | Talk     | Application: Denoising images and finding atoms                                  |
 | 4:20 - 4:30 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
 | 4:30 - 4:45 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
@@ -37,7 +38,7 @@
 ## Getting to the workshop
 
 ### On-site participants
-The workshop will be held at Oak Ridge National Laboratory. Visistors may find these [maps and directions](https://www.ornl.gov/content/maps-and-directions) helpful to get to ORNL.
+The workshop will be held at Oak Ridge National Laboratory. Visitors may find these [maps and directions](https://www.ornl.gov/content/maps-and-directions) helpful to get to ORNL.
 
 Once inside ORNL, please drive to the [Spllation Neutron Source (SNS)](https://neutrons.ornl.gov/sns) - building 8600, which is located in the top right 
 of [this map](https://www.ornl.gov/sites/default/files/05-01786-outsideMC-.pdf). Please also refer to this slightly 
@@ -67,7 +68,7 @@ We would appreciate it if you could spare a minute to [tell us what you thought 
 * This GitHub repository will always be available for you to refer to and so will your Azure notebooks.
 * We recommend that you to install [pyUSID](https://pycroscopy.github.io/pyUSID/install.html) and [pycroscopy](https://pycroscopy.github.io/pycroscopy/install.html) on your personal computers and use them for your research
 * You can find all necessary information on the [pyUSID](https://pycroscopy.github.io/pyUSID/about.html) and [pycroscopy](https://pycroscopy.github.io/pycroscopy/about.html) webpages
-* Please feel free to get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pyusid) if you need any help
+* Please feel free to get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pycroscopy) if you need any help
 
 ## Hosts
 ### Organizers
