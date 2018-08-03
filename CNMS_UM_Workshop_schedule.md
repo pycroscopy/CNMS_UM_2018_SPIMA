@@ -28,6 +28,7 @@
 | 4:30 - 4:45 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
 | 4:45 - 5:00 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
 
+**You are highly encouraged to attend the follow-on** [workshop on Machine Learning](https://cnmsusermeeting.ornl.gov/files/2018/03/MachineLearning_WT_081518.pdf) **on August 15th.**
 
 ## Before the workshop
 1. Please familiarize yourself with the [basics](./README.md#prerequisites)
@@ -58,6 +59,9 @@ Please request assistance from one of the helpers or the instructor
 ### Remote participants
 ![Typical BlueJeans window](https://support.bluejeans.com/sites/default/files/support/u111/Attendee%20View%20-%20six%20bullets%20-%209-25-17.png)
 One (or more) of the workshop organizers will be monitoring the BlueJeans chat panel for questions. Please feel free to ask questions there.
+
+## After the workshop
+We would appreciate it if you could spare a minute to [tell us what you thought of the workshop](https://docs.google.com/forms/d/e/1FAIpQLScrJ8zukKVLMIy5fhFqqT3EKrbk_4iPFEymljKo_ZGp8womGw/viewform?usp=sf_link)
 
 ## Hosts
 ### Organizers
