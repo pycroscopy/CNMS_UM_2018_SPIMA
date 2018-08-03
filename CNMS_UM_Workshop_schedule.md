@@ -63,6 +63,12 @@ One (or more) of the workshop organizers will be monitoring the BlueJeans chat p
 ## After the workshop
 We would appreciate it if you could spare a minute to [tell us what you thought of the workshop](https://docs.google.com/forms/d/e/1FAIpQLScrJ8zukKVLMIy5fhFqqT3EKrbk_4iPFEymljKo_ZGp8womGw/viewform?usp=sf_link)
 
+### Continuing to use pyUSID / pycroscopy
+* This GitHub repository will always be available for you to refer to and so will your Azure notebooks.
+* We recommend that you to install [pyUSID](https://pycroscopy.github.io/pyUSID/install.html) and [pycroscopy](https://pycroscopy.github.io/pycroscopy/install.html) on your personal computers and use them for your research
+* You can find all necessary information on the [pyUSID](https://pycroscopy.github.io/pyUSID/about.html) and [pycroscopy](https://pycroscopy.github.io/pycroscopy/about.html) webpages
+* Please feel free to get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pyusid) if you need any help
+
 ## Hosts
 ### Organizers
 - Suhas Somnath
