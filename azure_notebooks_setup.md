@@ -1,7 +1,6 @@
 # Azure Notebooks Setup
 
-Instructions for setting up an Azure Notebooks project from scratch below. 
-**Users should only need to clone an existing Azure notebooks project instead of following these instructions.**
+Instructions for setting up an Azure Notebooks project from scratch
 
 1.  Logging into Azure Notebooks:
 
