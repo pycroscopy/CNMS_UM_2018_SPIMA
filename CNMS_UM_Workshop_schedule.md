@@ -76,7 +76,7 @@ We would appreciate it if you could spare a minute to [tell us what you thought 
 - Rama K. Vasudevan
 - Chris R. Smith
 - Stephen Jesse
-### Helpers
+### Volunteers
 - Liam Collins
 - Ondrej Dyck
 - Sabine M. Neumayer
