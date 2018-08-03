@@ -39,6 +39,9 @@ Choose one of the following:
     - Follow these instructions to install 
       [pyUSID](https://pycroscopy.github.io/pyUSID/install.html) on your own laptop
     - We cannot promise support for this method during live workshops.
+    
+## Getting started
+Please [click here](./index.ipynb)
 
 ## Getting help
 Please get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pyusid)
