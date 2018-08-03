@@ -16,7 +16,7 @@
 | 10:00 - 10:15 AM | Hands on | [Basics of Python, Jupyter Notebooks, and Numpy](./index.ipynb)                  |
 | 10:15 - 10:30 AM |          | Coffee break                                                                     |
 | 10:30 - 11:00 AM | Hands on | [Basics of HDF5, h5py](./01_h5py.ipynb)                                          |
-| 11:00 - 11:30 AM | Hands on | [Interacting with USIDatasets](./02_USIDatasets.ipynb)                           |
+| 11:00 - 11:30 AM | Hands on | [Interacting with USIDatasets](./02_usi_dataset.ipynb)                           |
 | 11:30 - 12:00 PM | Hands On | [Reading h5USID datasets](./03_hdf_utils_read.ipynb)                             |
 | 12:00 - 1:00 PM  |          | Lunch (on your own)                                                              |
 | 1:00 - 1:45 PM   | Hands on | [Translating proprietary data formats to h5USID](./04_translation.ipynb)         |
