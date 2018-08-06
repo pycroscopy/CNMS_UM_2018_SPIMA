@@ -27,4 +27,4 @@ You need to be able to run some example code + examples to get the most out of t
 Please [click here](./index.ipynb)
 
 ## Getting help
-Please get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pyusid)
+Please get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pycroscopy)
