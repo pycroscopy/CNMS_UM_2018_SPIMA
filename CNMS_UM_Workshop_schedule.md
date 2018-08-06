@@ -32,8 +32,9 @@
 **You are highly encouraged to attend the follow-on** [workshop on Machine Learning](https://cnmsusermeeting.ornl.gov/files/2018/03/MachineLearning_WT_081518.pdf) **on August 15th.**
 
 ## Before the workshop
-1. Please familiarize yourself with the [basics](./README.md#prerequisites)
-2. Please fill out this quick [survey](https://docs.google.com/forms/d/e/1FAIpQLSeR5aB-iMxeCUyjk4t2hNhFKYy8ikBIqVPOZyzVeAbWXHvZ-w/viewform?usp=sf_link) about your comfort levels
+1. Please fill out this quick [survey](https://docs.google.com/forms/d/e/1FAIpQLSeR5aB-iMxeCUyjk4t2hNhFKYy8ikBIqVPOZyzVeAbWXHvZ-w/viewform?usp=sf_link) about your comfort levels
+2. Please follow [these instructions](./README.md#software) to install the necessary software. Due to the large number of attendees, the WiFi may be slower than ideal. **Therefore, please install the software on your laptop BEFORE the workshop**.
+3. Please familiarize yourself with the [basics](./README.md#prerequisites)
 
 ## Getting to the workshop
 
@@ -47,6 +48,8 @@ of [this map](https://www.ornl.gov/sites/default/files/05-01786-outsideMC-.pdf).
 The workshop will be held in conference rooms C-156 and C-152 of the SNS. 
 
 ### Remote participants
+**Important** - Please [send an email](somnaths@ornl.gov) to ensure that you are notified of changes / announcements regarding the workshop.
+
 We plan on using BlueJeans for broadcasting the entire event to those who cannot physically make it to the event. 
 Those who are within and in the vicinity of Oak Ridge National Laboratory are encouraged to attend in person to make the most of this workshop.
 
@@ -66,7 +69,6 @@ We would appreciate it if you could spare a minute to [tell us what you thought 
 
 ### Continuing to use pyUSID / pycroscopy
 * This GitHub repository will always be available for you to refer to and so will your Azure notebooks.
-* We recommend that you to install [pyUSID](https://pycroscopy.github.io/pyUSID/install.html) and [pycroscopy](https://pycroscopy.github.io/pycroscopy/install.html) on your personal computers and use them for your research
 * You can find all necessary information on the [pyUSID](https://pycroscopy.github.io/pyUSID/about.html) and [pycroscopy](https://pycroscopy.github.io/pycroscopy/about.html) webpages
 * Please feel free to get in touch with us on our [Google group](https://groups.google.com/forum/#!forum/pycroscopy) if you need any help
 
