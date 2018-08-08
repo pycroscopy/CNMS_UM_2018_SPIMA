@@ -22,11 +22,11 @@
 | 12:00 - 1:00 PM  |          | Lunch (on your own)                                                              |
 | 1:00 - 2:00 PM   | Demo     | Multivariate analysis and spectral unmixing                                      |
 | 2:00 - 3:00 PM   | Talk     | Universal data, processing framework for imaging and spectroscopy                |
-| 3:00 - 3:15 PM   |          | Coffe break                                                                      |
-| 2:45 - 3:15 PM   | Talk     | Application: Denoising images and finding atoms                                  |
-| 3:15 - 3:45 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
-| 3:45 - 4:15 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
-| 4:15 - 4:45 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
+| 3:00 - 3:20 PM   |          | Coffee break                                                                      |
+| 3:20 - 3:45 PM   | Talk     | Application: Denoising images and finding atoms                                  |
+| 3:45 - 4:05 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
+| 4:05 - 4:25 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
+| 4:25 - 4:45 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
 | 4:45 - 5:00 PM   | Talk     | Summary of workshop                                                              |
 | 5:00 PM onwards  |          | (Optional) Discussion                                                            |
 
