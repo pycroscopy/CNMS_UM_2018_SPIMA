@@ -22,7 +22,7 @@
 | 12:00 - 1:00 PM  |          | Lunch (on your own)                                                              |
 | 1:00 - 2:00 PM   | Demo     | Multivariate analysis and spectral unmixing                                      |
 | 2:00 - 3:00 PM   | Talk     | Universal data, processing framework for imaging and spectroscopy                |
-| 3:00 - 3:20 PM   |          | Coffee break                                                                      |
+| 3:00 - 3:20 PM   |          | Coffee break                                                                     |
 | 3:20 - 3:45 PM   | Talk     | Application: Denoising images and finding atoms                                  |
 | 3:45 - 4:05 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
 | 4:05 - 4:25 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
