@@ -7,7 +7,7 @@ basics of:
 - [USID](https://pycroscopy.github.io/pyUSID/data_format.html), [pyUSID](https://pycroscopy.github.io/pyUSID/about.html), 
   and [pycroscopy](https://pycroscopy.github.io/pycroscopy/about.html) as tools for analyzing large and multidimensional imaging / spectroscopy datasets 
     
-This material was developed as part of the [2018 CNMS User Meeting workshop](./CNMS_UM_Workshop_schedule.md)
+This material was developed as part of the [2018 CNMS User Meeting](./CNMS_UM_Workshop_schedule.md)
 
 ## Software
 You need to be able to run some example code + examples to get the most out of this workshop. 
