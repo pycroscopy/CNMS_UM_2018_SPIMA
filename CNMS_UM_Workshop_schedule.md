@@ -73,6 +73,9 @@ Please request assistance from one of the helpers or the instructor
 ![Typical BlueJeans window](https://support.bluejeans.com/sites/default/files/support/u111/Attendee%20View%20-%20six%20bullets%20-%209-25-17.png)
 One (or more) of the workshop organizers will be monitoring the BlueJeans chat panel for questions. Please feel free to ask questions there.
 
+### Trouble with installing software?
+Please follow [instructions here](./online_environments.md)
+
 ## After the workshop
 We would appreciate it if you could spare a minute to [tell us what you thought of the workshop](https://docs.google.com/forms/d/e/1FAIpQLScrJ8zukKVLMIy5fhFqqT3EKrbk_4iPFEymljKo_ZGp8womGw/viewform?usp=sf_link)
 
