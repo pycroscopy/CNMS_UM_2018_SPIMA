@@ -21,18 +21,18 @@ Attendees are encouraged to open up the appropriate jupyter notebook and follow 
 | 10:15 - 10:30 AM |          | Coffee Break                                                                     |
 | 10:30 - 10:45 AM | Hands-on | Numerical operations using NumPy                                                 |
 | 10:45 - 11:00 AM | Hands-on | Visualization using MatPlotLib                                                   |
-| 11:00 - 11:30 AM | Hands-on | Spectral processing                                                              |
-| 11:30 - 12:00 PM | Hands-on | Image processing                                                                 |
+| 11:00 - 12:00 PM | Hands-on | Spectral processing                                                              |
 | 12:00 - 1:00 PM  |          | Lunch (on your own)                                                              |
-| 1:00 - 2:00 PM   | Demo     | Multivariate analysis and spectral unmixing                                      |
-| 2:00 - 3:00 PM   | Talk     | Universal data, processing framework for imaging and spectroscopy                |
-| 3:00 - 3:20 PM   |          | Coffee break                                                                     |
-| 3:20 - 3:45 PM   | Talk     | Application: Denoising images and finding atoms                                  |
-| 3:45 - 4:05 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
-| 4:05 - 4:25 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
-| 4:25 - 4:45 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
-| 4:45 - 5:00 PM   | Talk     | Summary of workshop                                                              |
-| 5:00 PM onwards  |          | (Optional) Discussion                                                            |
+| 1:00 - 2:00 PM   | Hands-on | Image processing                                                                 |
+| 2:00 - 2:30 PM   | Demo     | Multivariate analysis and spectral unmixing                                      |
+| 2:30 - 2:50 PM   |          | Coffee break                                                                     |
+| 2:50 - 3:45 PM   | Talk     | Universal data, processing framework for imaging and spectroscopy                |
+| 3:45 - 4:05 PM   | Talk     | Application: Denoising images and finding atoms                                  |
+| 4:05 - 4:25 PM   | Talk     | Application: Visualizing invisible physical features using multivariate analysis |
+| 4:25 - 4:45 PM   | Talk     | Application: Bringing Kelvin Probe Force Microscopy into the information age!    |
+| 4:45 - 5:00 PM   | Talk     | Application: Ultrafast current-voltage spectroscopy using Bayesian inference     |
+| 5:00 - 5:10 PM   | Talk     | Summary of workshop                                                              |
+| 5:10 PM onwards  |          | (Optional) Discussion                                                            |
 
 **You are highly encouraged to attend the follow-on** [workshop on Machine Learning](https://cnmsusermeeting.ornl.gov/files/2018/03/MachineLearning_WT_081518.pdf) **on August 15th.**
 
