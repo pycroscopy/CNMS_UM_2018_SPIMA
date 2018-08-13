@@ -5,9 +5,11 @@ h5py
 psutil
 six
 joblib
-ipywidgets
 ipython
+ipywidgets
 pyqt5
 pyqtgraph
 scikit-image
+scikit-learn
 pyUSID
+pycroscopy

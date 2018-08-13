@@ -12,8 +12,8 @@ This material was developed as part of the [2018 CNMS User Meeting](./CNMS_UM_Wo
 ## Software
 You need to be able to run some example code + examples to get the most out of this workshop. 
 
-- Follow these instructions to install Anaconda + 
-  [pycroscopy](https://pycroscopy.github.io/pycroscopy/install.html) on your own laptop
+- Follow [these instructions](https://pycroscopy.github.io/pycroscopy/install.html) to install Anaconda + 
+  pycroscopy on your own laptop
 - Also please install pyUSID via: ``pip install pyUSID`` just like how you installed pycroscopy
 
 ## Prerequisites
