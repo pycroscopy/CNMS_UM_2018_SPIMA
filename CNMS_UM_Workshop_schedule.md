@@ -1,10 +1,14 @@
-# 2018 CNMS User Meeting Workshop
+# Imaging and Spectral Data Analysis in Python
+
+**2018 CNMS User Meeting Workshop**
 
 [Abstract](https://cnmsusermeeting.ornl.gov/files/2018/03/Pycroscopy_WT_081318.pdf) of the workshop
 
 **August 13 2018**
 
-## Tentative Schedule 
+## Schedule 
+
+Attendees are encouraged to open up the appropriate jupyter notebook and follow along on their own computer for the ``Hands-on`` topics
 
 **All times are US Eastern Daylight Time**
 
@@ -85,6 +89,7 @@ We would appreciate it if you could spare a minute to [tell us what you thought 
 - Stephen Jesse
 ### Volunteers
 - Liam Collins
+- Josh Agar
 - Ondrej Dyck
 - Sabine M. Neumayer
 - Wan-Yu Tsai

@@ -1,10 +1,11 @@
-# pyUSID Tutorial
+# Imaging and Spectral Data Analysis in Python
 
 We present a set of jupyter notebooks and presentations that go over the
 basics of:
 
-- Image and spectral analysis
-- pyUSID and pycroscopy
+- Image and spectral data analysis in Python 
+- [USID](https://pycroscopy.github.io/pyUSID/data_format.html), [pyUSID](https://pycroscopy.github.io/pyUSID/about.html), 
+  and [pycroscopy](https://pycroscopy.github.io/pycroscopy/about.html) as tools for analyzing large and multidimensional imaging / spectroscopy datasets 
     
 This material was developed as part of the [2018 CNMS User Meeting workshop](./CNMS_UM_Workshop_schedule.md)
 
