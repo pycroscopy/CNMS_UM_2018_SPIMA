@@ -38,12 +38,12 @@ Attendees are encouraged to open up the appropriate jupyter notebook and follow 
 
 ## Before the workshop
 1. Please fill out this quick [survey](https://docs.google.com/forms/d/e/1FAIpQLSeR5aB-iMxeCUyjk4t2hNhFKYy8ikBIqVPOZyzVeAbWXHvZ-w/viewform?usp=sf_link) about your comfort levels
-2. Please follow [these instructions](./README.md#software) to install the necessary software. 
+2. Please follow [these instructions](./README.md) to install the necessary software. 
    Due to the large number of attendees, the WiFi may be slower than ideal. 
    **Therefore, please install the software on your laptop BEFORE the workshop**.
    If you are having trouble installing the software, please [get in touch with us](https://groups.google.com/forum/#!forum/pycroscopy). 
    Those coming on-site to the workshop are recommended to arrive early to the workshop so that one of the organizers can help you
-3. Please familiarize yourself with the [basics](./README.md#prerequisites)
+3. Please familiarize yourself with the basics of python, numpy, matplotlib, and jupyter notebooks
 
 ## Getting to the workshop
 
@@ -73,9 +73,6 @@ Please request assistance from one of the helpers or the instructor
 ![Typical BlueJeans window](https://support.bluejeans.com/sites/default/files/support/u111/Attendee%20View%20-%20six%20bullets%20-%209-25-17.png)
 One (or more) of the workshop organizers will be monitoring the BlueJeans chat panel for questions. Please feel free to ask questions there.
 
-### Trouble with installing software?
-Please follow [instructions here](./online_environments.md)
-
 ## After the workshop
 We would appreciate it if you could spare a minute to [tell us what you thought of the workshop](https://docs.google.com/forms/d/e/1FAIpQLScrJ8zukKVLMIy5fhFqqT3EKrbk_4iPFEymljKo_ZGp8womGw/viewform?usp=sf_link)
 
@@ -88,13 +85,10 @@ We would appreciate it if you could spare a minute to [tell us what you thought 
 ### Organizers
 - Suhas Somnath
 - Rama K. Vasudevan
+- Liam Collins
 - Chris R. Smith
 - Stephen Jesse
 ### Volunteers
-- Liam Collins
 - Josh Agar
-- Ondrej Dyck
 - Sabine M. Neumayer
 - Wan-Yu Tsai
-- Artem A. Trofimov
-- Nikolay Borodinov
