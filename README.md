@@ -27,11 +27,20 @@ See our [list of tutorials](https://pycroscopy.github.io/pyUSID/external_guides.
         1. Windows users: Click on ``Start`` >> ``Anaconda3`` >> ``Anaconda Prompt``
         2. Mac / Linux users: Open ``Terminal``. You can find it by holding down your ``Command`` and ``Space`` key and 
            typing ``Terminal`` in the search bar that pops up.
-    2. In the ``Terminal`` or ``Anaconda Prompt``, type ``jupyter notebook`` and press the ``Enter`` or ``Return`` key
-    3. If everything happened correctly, a new tab should pop up on your default browser showing familiar folders such 
-       as ``Desktop``, ``Documents``, etc. Navigate to the folder (e.g. - ``Desktop``) where you unzipped the zip file 
+    2. In the ``Terminal`` or ``Anaconda Prompt``, type ``jupyter notebook`` and press the ``Enter`` or ``Return`` key.
+       If everything happened correctly, a new tab should pop up on your default browser showing familiar folders such 
+       as ``Desktop``, ``Documents``, etc. 
+    3. **Do not close the Terminal or Anaconda Prompt!**
+4. Finally, work on the notebooks in this tutorial:
+    1. Navigate to the folder (e.g. - ``Desktop``) where you unzipped the zip file 
        in step 2.
-4. Click on the ``index.ipynb`` file which should present a new tab on your browser that looks [like this](./index.ipynb)
+    2. Click on the ``index.ipynb`` file which should present a new tab on your browser that looks [like this](./index.ipynb)
+5. Once you are done working on the jupyter notebooks:
+    1. Go back to the ``Terminal`` or ``Anaconda Prompt``. Hold down the ``Ctrl`` (control) key and press the ``C`` key 
+       twice to shut down the Jupyter server.
+    2. You can now close the Jupyter browser tabs and the ``Terminal`` or ``Anaconda Prompt``
+    
+*We understand that this may seem a little tedious in the beginning but we assure you that you will get used to this very quickly*
 
 ### Trying out the tutorial online
 If you are having trouble with installing Anaconda on your personal computer (above), please try one of the following:
